@@ -1,0 +1,10 @@
+	
+	0. DEPENDENCIAS
+	ncurses
+	pthread
+	
+	1. COMPILAR
+	make && make clean
+	
+	2. EJECUCIÓN
+	./sudoku
